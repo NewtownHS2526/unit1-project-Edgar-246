@@ -6,7 +6,7 @@ div {
   }
   
   img {
-    max-width: 80%;
+    max-width: 20%;
   }
   
   #header {
@@ -15,3 +15,4 @@ div {
 body {
   background-color: #9effc3;
 }
+h2 {text-decoration: underline;}
